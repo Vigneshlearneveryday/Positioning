@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+.container{
+    border: 2px solid black;
+    padding: 20px;
+    height: 150px;
+    position: relative;
+}
+.box{
+    height: 60px;
+    width: 60px;
+    background-color: #1303f3;
+    color: white;
+}
+.absolute{
+    position: absolute;
+    top: 0px;
+    left: 400px;
+}
