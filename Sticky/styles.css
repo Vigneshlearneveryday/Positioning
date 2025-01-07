@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.content-section{
+    margin-bottom: 50px;
+    background-color: yellow;
+    padding: 20px;
+}
+.content{
+      margin-bottom: 20px;
+      background-color: green;
+      padding: 20px;
+}
+.sticky-header{
+    position: sticky;
+    top: 0;
+    background-color: rgb(35, 4, 212);
+    color: white;
+    padding: 20px;
+    margin-bottom: 30px;
+}
