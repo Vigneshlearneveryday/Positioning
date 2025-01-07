@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+    padding-top: 60px;
+}
+.fixed-header{
+    background-color: rgb(14, 97, 97);
+    height: 50px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+.fixed-button{
+    height: 30px;
+    width: 100px;
+    background-color: blue;
+    border: none;
+    box-shadow: inset 0px 0px 10px rgb(0, 0, 0);
+    color: white;
+    border-radius: 50px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 10px 0px;
+    cursor: pointer;
+}
